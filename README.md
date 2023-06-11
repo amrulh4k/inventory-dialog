@@ -10,7 +10,7 @@ player interaction with their inventory items.
 Simply install to your project:
 
 ```bash
-sampctl package install ScavengeSurvive/inventory-dialog
+sampctl package install astro-debug/inventory-dialog
 ```
 
 Include in your code and begin using the library:
